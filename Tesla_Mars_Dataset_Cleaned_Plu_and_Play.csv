@@ -1,0 +1,17 @@
+Year,Mission_Phase,Data_Volume_TB_Per_Day,Vehicles_Units,Communication_Latency_Minutes,Infrastructure_Cost_Billions,Power_Required_MW,Processing_Locations,Bandwidth_Required_Gbps,Mission_Criticality,Technology_Readiness
+2024,Earth_Operations,50,6000000,0.001,2.5,150,Earth_Only,100,Medium,9
+2025,Advanced_FSD,75,8000000,0.001,3.2,200,Earth_Only,150,Medium,9
+2026,Global_Fleet,100,12000000,0.001,4.1,250,Earth_Only,200,High,9
+2027,Starship_Testing,120,15000000,0.002,5.5,300,Earth_Orbital,250,High,8
+2028,Mars_Prep,150,18000000,0.5,8.2,400,Earth_Orbital,350,High,7
+2029,First_Colony,200,20000000,4,12.5,600,Earth_Mars,500,Critical,6
+2030,Dual_Planet,300,25000000,8,18.0,800,Earth_Mars,750,Critical,7
+2031,Mars_Manufacturing,450,30000000,12,25.0,1200,Earth_Mars,1000,Critical,8
+2032,Interplanetary_Fleet,600,35000000,16,35.0,1500,Multi_Planet,1500,Critical,8
+2033,Mars_Independence,800,40000000,20,45.0,2000,Multi_Planet,2000,Critical,9
+2034,Deep_Space_Expansion,1000,50000000,24,60.0,2500,Solar_System,3000,Critical,9
+2035,Multi_Colony,1500,75000000,28,80.0,3500,Solar_System,4000,Critical,9
+
+
+
+A hack is imagination made tangible—taking the impossible and making it inevitable. Everyone's focused on getting to Mars, but I hacked humanity's real challenge: the $80B Earth infrastructure gap that determines whether Mars colonies thrive or become our most expensive failure
